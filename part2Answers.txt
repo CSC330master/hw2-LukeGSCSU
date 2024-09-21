@@ -1,0 +1,21 @@
+1. List of Linux commands I used - 
+pwd - Use it to see what directory you are currently under.
+mkdir - Use to create a new directory.
+cd - Use to change to a certain directory.
+ls -ltr - Use ls to see the list of directories or sub-directories you are on, -ltr provides the author, modification date, and size sorted in reverse order...
+
+2. List of Git commands I used - 
+git config - Use to configure things such as a email or a username to be associated with your git account.
+git clone - Use to make a copy of an already existing git repository to use for yourself.
+git status - Use to check the status of your local repository to see if its been added or committed already.
+git add - Use to add a file or a group of files to the list of files to be updated in the next commit.
+git commit - Use to commit the changes only to the files that were selected using git add. 
+git push - Use to push the committed file(s) or send it from your VM to the GitHub repository.
+
+3. Questions from the Syllabus - 
+i. To ensure academic honesty, students must provide a separate document submitted with each assignment that says the name of any student(s) they 
+collaborated with. If they did not collaborate with anyone they must also say that.
+ii. In a similar fashion, on that same document students must say if they consulted any external sources. If they did not then also say that.
+iii. The penalty for a late assignment is 10% off per day. There are exceptions however...
+iV. The penalty for missing classes (unexcused), is that student will be responsible for making up missed work and finding out what class activities occurred.
+
